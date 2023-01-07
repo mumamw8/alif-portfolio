@@ -31,7 +31,7 @@ function App() {
   };
 
   return (
-    <div className="App dark:bg-[#1b1917] h-full">
+    <div className="App bg-[#dddcae] dark:bg-[#1b1917] h-full">
       <div className="select-none font-lora max-w-5xl w-11/12 mx-auto">
         <Header themeSwitch={handleThemeSwitch} theme={theme} />
         <Intro />
