@@ -4,7 +4,7 @@ function Intro() {
   return (
     <section id='intro' className="flex items-start justify-start flex-col pt-20 pb-6">
         <div className="text-left">
-            <h1 className="text-4xl md:text-5xl dark:text-white mb-1 md:mb-3 font-bold">AL--Code</h1>
+            <h1 className="text-4xl md:text-5xl dark:text-white mb-1 md:mb-3 font-bold">MDEV</h1>
             <p className="text-base md:text-xl mb-3 font-medium dark:text-white">
                 Software engineer | Web Developer
             </p>
